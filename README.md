@@ -1,2 +1,2 @@
 # gruntTesting
-Playing Grunt JS
+Playing with Grunt JS
